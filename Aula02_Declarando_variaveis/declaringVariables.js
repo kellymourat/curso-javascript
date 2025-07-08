@@ -13,3 +13,6 @@ console.log("terceiroValor", terceiroValor);
 
 terceiroValor = 100;
 console.log("terceiroValor final: ", terceiroValor);
+
+let comunidade = "Dev Completo"
+console.log("Comunidade", comunidade);
