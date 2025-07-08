@@ -1,8 +1,3 @@
-// Operadores aritiméticos
-// Opradores de atribuição
-// Operadores de comparação
-// Operadores lógicos 
-
 // salário
 
 const salario = 5000;
