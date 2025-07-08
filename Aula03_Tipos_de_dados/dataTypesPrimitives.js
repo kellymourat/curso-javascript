@@ -1,8 +1,8 @@
-// Number 
+// Number = refere-se tanto ao tipo de dado numérico quanto ao objeto construtor que permite trabalhar com valores numéricos
 
-// String
+// String = uma string é um tipo de dado que representa texto
 
-// Boolean
+// Boolean = valor lógico, podendo ser true (verdadeiro) ou false (falso).
 
 // Undefined =  significa que ela foi declarada, mas ainda não recebeu um valor atribuído a ela.
 
