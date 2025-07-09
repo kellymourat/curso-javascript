@@ -14,7 +14,7 @@ if (idadeMaria >= 18) {
 // operadores ternários , simplificando estrutura de controle if else.
 
 idadeMaria >= maiorIdade 
- ? console.log("Mria pode dirigir")
+ ? console.log("Maria pode dirigir")
  : console.log ("Maria NÃO PODE dirigir");
 
 console.log("____________________________________________")
